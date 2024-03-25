@@ -32,13 +32,14 @@
 
 ### Project
 
+[![Visual Studio Code Badge](https://img.shields.io/badge/format--files--by--ignores-VSCode插件\:_通过_Ignore_文件批量格式代码-288cca?logo=visualstudiocode&logoColor=288cca&style=flat)](https://github.com/xiaohuohumax/format-files-by-ignores)
+[![Rollup Badge](https://img.shields.io/badge/bookmark--script--builder-浏览器书签脚本_Bookmarklet_打包器-FF3333?logo=rollupdotjs&logoColor=FF3333&style=flat)](https://github.com/xiaohuohumax/bookmark-script-builder)
 [![Tampermonkey Badge](https://img.shields.io/badge/Xhh--Script-VIP视频解析_网盘资源搜索-E34F26?logo=tampermonkey&logoColor=E34F26&style=flat)](https://github.com/xiaohuohumax/Xhh-Script)
 [![Python Badge](https://img.shields.io/badge/auto--unpack-批量识别_测试_解压压缩包-3776AB?logo=python&logoColor=3776AB&style=flat)](https://github.com/xiaohuohumax/auto-unpack)
-[![TypeScript Badge](https://img.shields.io/badge/LrcFile--Analysis-Lrc歌词文件解析器-3178C6?logo=typescript&logoColor=3178C6&style=flat)](https://github.com/xiaohuohumax/LrcFile-Analysis)
+[![TypeScript Badge](https://img.shields.io/badge/LrcFile--Analysis-Lrc_歌词文件解析器-3178C6?logo=typescript&logoColor=3178C6&style=flat)](https://github.com/xiaohuohumax/LrcFile-Analysis)
 [![GitHub Badge](https://img.shields.io/badge/MiaoJi(喵记)-基于Github_Issue_label实现的博客-181717?logo=github&logoColor=181717&style=flat)](https://github.com/xiaohuohumax/MiaoJi)
-[![Vue.js Badge](https://img.shields.io/badge/PointBackground-Vue动态背景-4FC08D?logo=vuedotjs&logoColor=4FC08D&style=flat)](https://github.com/xiaohuohumax/PointBackground)
+[![Vue.js Badge](https://img.shields.io/badge/PointBackground-Vue_动态背景-4FC08D?logo=vuedotjs&logoColor=4FC08D&style=flat)](https://github.com/xiaohuohumax/PointBackground)
 [![JavaScript Badge](https://img.shields.io/badge/Alibaba--Iconfont--downloads-阿里巴巴矢量图标库批量下载-F7DF1E?logo=javascript&logoColor=F7DF1E&style=flat)](https://github.com/xiaohuohumax/Alibaba-Iconfont-downloads)
-[![Rollup Badge](https://img.shields.io/badge/bookmark--script--builder-浏览器书签脚本打包器-FF3333?logo=rollupdotjs&logoColor=FF3333&style=flat)](https://github.com/xiaohuohumax/bookmark-script-builder)
 [![Python Badge](https://img.shields.io/badge/yml--format-YAML字段替换-3776AB?logo=python&logoColor=3776AB&style=flat)](https://github.com/xiaohuohumax/yml-format)
 [![Powershell Badge](https://img.shields.io/badge/my--winget-Window软件批量下载-38BDF8?logo=powershell&logoColor=457ad5&style=flat)](https://github.com/xiaohuohumax/my-winget)
 [![Threejs Badge](https://img.shields.io/badge/three--earth-Threejs地球飞机动画-ffffff?logo=threedotjs&logoColor=ffffff&style=flat)](https://github.com/xiaohuohumax/three-earth)
