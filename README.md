@@ -6,7 +6,7 @@
 
 ### About me
 
-**一条侧躺的咸鱼：擅长前后端、辅助脚本开发。闲暇之余喜欢钓钓鱼🎣，逛逛景点🦥，看看电影🎥。**
+**一条侧躺的咸鱼：擅长前后端、辅助脚本开发。闲暇之余喜欢钓钓鱼🎣、逛逛景点🦥、看看电影🎥。**
 
 ### Using
 
@@ -20,10 +20,12 @@
 ![Tailwindcss Badge](https://img.shields.io/badge/tailwindcss-38BDF8?logo=tailwindcss&logoColor=fff&style=flat)
 ![Bootstrap Badge](https://img.shields.io/badge/bootstrap-38BDF8?logo=bootstrap&logoColor=fff&style=flat)
 
+<!-- 
 ### Studying
 
 ![React Badge](https://img.shields.io/badge/React-149eca?logo=react&logoColor=000&style=flat)
 ![Go Badge](https://img.shields.io/badge/Go-76e1fe?logo=go&logoColor=000&style=flat)
+-->
 
 ### Environment
 
@@ -49,6 +51,8 @@
 
 ### Have fun 🎉🎉
 
+<!--
 [![Star](https://img.shields.io/badge/Star-2563eb?style=flat)](https://github.com/xiaohuohumax/xiaohuohumax)
 [![Fork](https://img.shields.io/badge/Fork-16a34a?style=flat)](https://github.com/xiaohuohumax/xiaohuohumax)
 [![Issue](https://img.shields.io/badge/Issue-dc2626?style=flat)](https://github.com/xiaohuohumax/xiaohuohumax/issues)
+-->
