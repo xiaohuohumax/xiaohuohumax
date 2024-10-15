@@ -1,58 +1,209 @@
 <div align="center">
-    <a href="https://github.com/xiaohuohumax">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4ADE80&width=176&height=46&lines=hello+world!;xiaohuohumax" alt="xiaohuohumax" />
-    </a>
+  <a href="https://github.com/xiaohuohumax">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4ADE80&width=176&height=38&lines=hello+world!;xiaohuohumax" alt="xiaohuohumax"/>
+  </a>
 </div>
 
-### About me
+### 关于
 
 **一条侧躺的咸鱼：擅长前后端、辅助脚本开发。闲暇之余喜欢钓钓鱼🎣、逛逛景点🦥、看看电影🎥。**
 
-### Using
+### 使用
 
-![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
-![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
-![Tampermonkey Badge](https://img.shields.io/badge/Tampermonkey-E34F26?logo=tampermonkey&logoColor=fff&style=flat)
-![Rollup Badge](https://img.shields.io/badge/Rollup-FF3333?logo=rollupdotjs&logoColor=fff&style=flat)
-![Tailwindcss Badge](https://img.shields.io/badge/tailwindcss-38BDF8?logo=tailwindcss&logoColor=fff&style=flat)
-![Bootstrap Badge](https://img.shields.io/badge/bootstrap-38BDF8?logo=bootstrap&logoColor=fff&style=flat)
+<!-- web -->
+![Vue.js](https://img.shields.io/badge/vuejs-35495e.svg?style=flat&logo=vuedotjs&logoColor=4FC08D)
+![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=flat&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=flat&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=flat&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+![UnoCSS](https://img.shields.io/badge/unocss-333333.svg?style=flat&logo=unocss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-8511FA.svg?style=flat&logo=bootstrap&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-646CFF.svg?style=flat&logo=vite&logoColor=white)
+![Vitest](https://img.shields.io/badge/-Vitest-252529?style=flat&logo=vitest&logoColor=FCC72B)
+![RollupJS](https://img.shields.io/badge/RollupJS-ef3335?style=flat&logo=rollup.js&logoColor=white)
+![Esbuild](https://img.shields.io/badge/esbuild-FFCF00.svg?style=flat&logo=esbuild&logoColor=black)
+![Tampermonkey](https://img.shields.io/badge/tampermonkey-00485B.svg?style=flat&logo=tampermonkey&logoColor=white)
+<!-- background -->
+![Java](https://img.shields.io/badge/java-ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-6DB33F.svg?style=flat&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-009639.svg?style=flat&logo=nginx&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-DD0031.svg?style=flat&logo=redis&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-404d59.svg?style=flat&logo=express&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-000.svg?style=flat&logo=flask&logoColor=white)
+<!-- env -->
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-F05033.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-121011.svg?style=flat&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-2671E5.svg?style=flat&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-0db7ed.svg?style=flat&logo=docker&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837.svg?style=flat&logo=npm&logoColor=white)
+![PyPi](https://img.shields.io/badge/pypi-ececec.svg?style=flat&logo=pypi&logoColor=1f73b7)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
 
-<!-- 
-### Studying
+### 项目
 
-![React Badge](https://img.shields.io/badge/React-149eca?logo=react&logoColor=000&style=flat)
-![Go Badge](https://img.shields.io/badge/Go-76e1fe?logo=go&logoColor=000&style=flat)
--->
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/xiaohuohumax/x-fetch">x-fetch</a>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=flat&logo=typescript&logoColor=white"/>
+    </td>
+    <td>基于 fetch API 的简单、轻量级的 HTTP 请求库。</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/xiaohuohumax/resources">resources</a>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=flat&logo=typescript&logoColor=white"/>
+    </td>
+    <td>一个收录各种常用资源地址(软件、配置、文档等)的导航页。</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/xiaohuohumax/MiaoJi">MiaoJi</a>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/vuejs-35495e.svg?style=flat&logo=vuedotjs&logoColor=4FC08D"/>
+    </td>
+    <td>基于 Github API、Github Pages、Issue、Label 实现的简单博客。</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/xiaohuohumax/Xhh-Script">Xhh-Script</a>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/tampermonkey-00485B.svg?style=flat&logo=tampermonkey&logoColor=white"/>
+    </td>
+    <td>油猴脚本：VIP 视频解析，网盘资源搜索等。</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/xiaohuohumax/issue-game">issue-game</a>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/github%20actions-2671E5.svg?style=flat&logo=githubactions&logoColor=white"/>
+    </td>
+    <td>一个可以在 Issue 上玩游戏的 Action。</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/xiaohuohumax/vite-plugin-bookmarklet">vite-plugin-bookmarklet</a>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/vite-646CFF.svg?style=flat&logo=vite&logoColor=white"/>
+    </td>
+    <td>一个将项目打包成 Bookmarklet 的 Vite 插件。</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/xiaohuohumax/auto-unpack">auto-unpack</a>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
+    </td>
+    <td>压缩包批量解压工具，支持多种压缩包格式。</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/xiaohuohumax/vscode-export-profiles">vscode-export-profiles</a>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white"/>
+    </td>
+    <td>VSCode 插件：可以批量导出，合并多个配置文件(Profile)。</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/xiaohuohumax/Alibaba-Iconfont-downloads">Alibaba-Iconfont-downloads</a>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/javascript-323330.svg?style=flat&logo=javascript&logoColor=F7DF1E"/>
+    </td>
+    <td>批量下阿里巴巴矢量图标库图标。</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/xiaohuohumax/bookmark-script-builder">bookmark-script-builder</a>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/RollupJS-ef3335?style=flat&logo=rollup.js&logoColor=white"/>
+    </td>
+    <td>浏览器书签脚本打包工具 Bookmarklet Cli。</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/xiaohuohumax/format-files-by-ignores">format-files-by-ignores</a>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white"/>
+    </td>
+    <td>VSCode 插件：批量格式化未被 ignore 配置过滤的文件。</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/xiaohuohumax/vscode-theme-css-variables">vscode-theme-css-variables</a>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white"/>
+    </td>
+    <td>VSCode 插件：补全用户输入的 VSCode 主题变量名。</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/xiaohuohumax/LrcFile-Analysis">LrcFile-Analysis</a>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=flat&logo=typescript&logoColor=white"/>
+    </td>
+    <td>LRC 歌词文件处理工具。</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/xiaohuohumax/PointBackground">PointBackground</a>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/vuejs-35495e.svg?style=flat&logo=vuedotjs&logoColor=4FC08D"/>
+    </td>
+    <td>一个漂亮的 Vue 动态背景。</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/xiaohuohumax/my-winget">my-winget</a>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/PowerShell-5391FE.svg?style=flat&logo=powershell&logoColor=white"/>
+    </td>
+    <td>Windows 软件批量下载。</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/xiaohuohumax/yml-format">yml-format</a>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
+    </td>
+    <td>YAML 文件内容替换。</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/xiaohuohumax/three-earth">three-earth</a>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white"/>
+    </td>
+    <td>three.js 地球飞机。</td>
+  </tr>
+</table>
 
-### Environment
-
-<img src="https://skillicons.dev/icons?i=vscode,idea,linux,github,githubactions,docker,maven,rabbitmq,redis,nginx,mysql,postman" />
-
-
-### Project
-
-[![Tampermonkey Badge](https://img.shields.io/badge/Xhh--Script-VIP视频解析_网盘资源搜索-E34F26?logo=tampermonkey&logoColor=E34F26&style=flat)](https://github.com/xiaohuohumax/Xhh-Script)
-[![Visual Studio Code Badge](https://img.shields.io/badge/vscode--export--profiles-批量导出配置文件(profile)-288cca?logo=visualstudiocode&logoColor=288cca&style=flat)](https://github.com/xiaohuohumax/vscode-export-profiles)
-[![Visual Studio Code Badge](https://img.shields.io/badge/format--files--by--ignores-通过_Ignore_文件批量格式代码-288cca?logo=visualstudiocode&logoColor=288cca&style=flat)](https://github.com/xiaohuohumax/format-files-by-ignores)
-[![Visual Studio Code Badge](https://img.shields.io/badge/vscode--theme--css--variables-VSCode扩展样式变量提示-288cca?logo=visualstudiocode&logoColor=288cca&style=flat)](https://github.com/xiaohuohumax/vscode-theme-css-variables)
-[![Rollup Badge](https://img.shields.io/badge/bookmark--script--builder-浏览器书签脚本_Bookmarklet_打包器-FF3333?logo=rollupdotjs&logoColor=FF3333&style=flat)](https://github.com/xiaohuohumax/bookmark-script-builder)
-[![Python Badge](https://img.shields.io/badge/auto--unpack-批量识别_测试_解压压缩包-3776AB?logo=python&logoColor=3776AB&style=flat)](https://github.com/xiaohuohumax/auto-unpack)
-[![TypeScript Badge](https://img.shields.io/badge/LrcFile--Analysis-Lrc_歌词文件解析器-3178C6?logo=typescript&logoColor=3178C6&style=flat)](https://github.com/xiaohuohumax/LrcFile-Analysis)
-[![GitHub Badge](https://img.shields.io/badge/MiaoJi(喵记)-基于Github_Issue_label实现的博客-181717?logo=github&logoColor=181717&style=flat)](https://github.com/xiaohuohumax/MiaoJi)
-[![Vue.js Badge](https://img.shields.io/badge/PointBackground-Vue_动态背景-4FC08D?logo=vuedotjs&logoColor=4FC08D&style=flat)](https://github.com/xiaohuohumax/PointBackground)
-[![JavaScript Badge](https://img.shields.io/badge/Alibaba--Iconfont--downloads-阿里巴巴矢量图标库批量下载-F7DF1E?logo=javascript&logoColor=F7DF1E&style=flat)](https://github.com/xiaohuohumax/Alibaba-Iconfont-downloads)
-[![Python Badge](https://img.shields.io/badge/yml--format-YAML字段替换-3776AB?logo=python&logoColor=3776AB&style=flat)](https://github.com/xiaohuohumax/yml-format)
-[![Powershell Badge](https://img.shields.io/badge/my--winget-Window软件批量下载-38BDF8?logo=powershell&logoColor=457ad5&style=flat)](https://github.com/xiaohuohumax/my-winget)
-[![Threejs Badge](https://img.shields.io/badge/three--earth-Threejs地球飞机动画-ffffff?logo=threedotjs&logoColor=ffffff&style=flat)](https://github.com/xiaohuohumax/three-earth)
-
-
-### Have fun 🎉🎉
-
-<!--
-[![Star](https://img.shields.io/badge/Star-2563eb?style=flat)](https://github.com/xiaohuohumax/xiaohuohumax)
-[![Fork](https://img.shields.io/badge/Fork-16a34a?style=flat)](https://github.com/xiaohuohumax/xiaohuohumax)
-[![Issue](https://img.shields.io/badge/Issue-dc2626?style=flat)](https://github.com/xiaohuohumax/xiaohuohumax/issues)
--->
+### 玩的开心 🎉🎉
