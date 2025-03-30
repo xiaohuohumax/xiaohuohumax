@@ -114,7 +114,7 @@
 
 ## 🎯 使用的技术栈和工具 | Tech Stack and Tools
 
-![技术栈](https://skillicons.dev/icons?theme=light&i=java,spring,maven,mysql,nginx,redis,docker,rabbitmq,nodejs,ts,js,vue,vite,tailwind,bootstrap,css,fastapi,flask,rollupjs,npm,pinia,pnpm,regex,windows,linux,vscode,idea,git,github,md&perline=12)
+![技术栈](https://skillicons.dev/icons?theme=dark&i=java,spring,maven,mysql,nginx,redis,docker,rabbitmq,nodejs,ts,js,vue,vite,tailwind,bootstrap,css,fastapi,flask,rollupjs,npm,pinia,pnpm,regex,windows,linux,vscode,idea,git,github,md&perline=12)
 
 <p align="right">
   <a href="#readme-top">
