@@ -152,7 +152,7 @@
 ## 🎯 使用的技术栈和工具 | Tech Stack and Tools
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?theme=dark&i=java,spring,maven,mysql,nginx,redis,docker,rabbitmq,nodejs,ts,js,vue,vite,tailwind,bootstrap,css,fastapi,flask,rollupjs,npm,pinia,pnpm,regex,windows,linux,vscode,idea,git,github,md&perline=12">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?theme=dark&i=java%2cspring%2cmaven%2cmysql%2cnginx%2credis%2cdocker%2crabbitmq%2cnodejs%2cts%2cjs%2cvue%2cvite%2ctailwind%2cbootstrap%2ccss%2cfastapi%2cflask%2crollupjs%2cnpm%2cpinia%2cpnpm%2cregex%2cwindows%2clinux%2cvscode%2cidea%2cgit%2cgithub%2cmd&perline=12">
   <img src="https://skillicons.dev/icons?theme=light&i=java,spring,maven,mysql,nginx,redis,docker,rabbitmq,nodejs,ts,js,vue,vite,tailwind,bootstrap,css,fastapi,flask,rollupjs,npm,pinia,pnpm,regex,windows,linux,vscode,idea,git,github,md&perline=12">
 </picture>
 
