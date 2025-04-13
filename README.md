@@ -191,6 +191,19 @@
   </a>
 </p>
 
+## 🐰 赛博宠物 | Cyber Pets
+
+<img src="https://render.gitanimals.org/farms/xiaohuohumax" width="672"/>
+
+<p align="right">
+  <a href="#readme-top">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/返T回O顶P部-264653?style=for-the-badge">
+      <img src="https://img.shields.io/badge/返T回O顶P部-2a9d8f?style=for-the-badge">
+    </picture>
+  </a>
+</p>
+
 ## 📫 如何联系我 | How to Contact Me
 
 + Email&nbsp;&nbsp;&nbsp;: xiaohuohumax@gmail.com
