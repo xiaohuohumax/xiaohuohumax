@@ -72,14 +72,14 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/xiaohuohumax/badge-collection">badge-collection</a>
+      <a href="https://github.com/xiaohuohumax/readme-widget-hub">readme-widget-hub</a>
     </td>
     <td>
-      <a href="https://github.com/xiaohuohumax/badge-collection">
-        <img src="https://img.shields.io/github/stars/xiaohuohumax/badge-collection?style=flat-square" />
+      <a href="https://github.com/xiaohuohumax/readme-widget-hub">
+        <img src="https://img.shields.io/github/stars/xiaohuohumax/readme-widget-hub?style=flat-square" />
       </a><br/>
-      <a href="https://github.com/xiaohuohumax/badge-collection">
-        <img src="https://img.shields.io/github/forks/xiaohuohumax/badge-collection?style=flat-square" />
+      <a href="https://github.com/xiaohuohumax/readme-widget-hub">
+        <img src="https://img.shields.io/github/forks/xiaohuohumax/readme-widget-hub?style=flat-square" />
       </a>
     </td>
     <td>
@@ -221,8 +221,8 @@
 ## 🎉 感谢你的关注 | Thank you for your attention
 
 > [!Note]
-> 如果你喜欢我的个人资料，你可以 ⭐ 这个项目。如果你想找寻更多徽章和状态卡片，欢迎访问我的 [Badge Collection](https://xiaohuohumax.github.io/badge-collection/) 文档。<br/>
-> If you liked my profile, you can ⭐ this repository. If you want to find more badges and status cards, welcome to visit my [Badge Collection](https://xiaohuohumax.github.io/badge-collection/en-US/) documentation.
+> 如果你喜欢我的个人资料，你可以 ⭐ 这个项目。如果你想找寻更多徽章和状态卡片，欢迎访问我的 [Readme Widget Hub](https://xiaohuohumax.github.io/readme-widget-hub/) 文档。<br/>
+> If you liked my profile, you can ⭐ this repository. If you want to find more badges and status cards, welcome to visit my [Readme Widget Hub](https://xiaohuohumax.github.io/readme-widget-hub/en-US/) documentation.
 
 <img src="https://count.getloli.com/@xiaohuohumax?theme=green" height="128"/>
 
