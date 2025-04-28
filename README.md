@@ -1,8 +1,10 @@
 <a id="readme-top"></a>
 
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=128&color=0:2a9d8f,100:264653"/>
-  <div><samp>&gt;&gt; xiaohuohumax &lt;&lt;</samp></div>
+<div align="center">
+  <picture>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=128&color=0:2a9d8f,100:264653"/>
+  </picture>
+  <h1><samp><b>&gt;&gt; xiaohuohumax &lt;&lt;</b></samp></h1>
   <div>
     <a href="https://github.com/xiaohuohumax/xiaohuohumax/issues">
       <img src="https://img.shields.io/github/issues/xiaohuohumax/xiaohuohumax?style=flat-square" />
@@ -17,7 +19,7 @@
       <img src="https://img.shields.io/github/followers/xiaohuohumax?style=flat-square" />
     </a>
   </div>
-</h1>
+</div>
 
 ## 👋 关于我 | About Me
 
@@ -152,8 +154,8 @@
 ## 🎯 使用的技术栈和工具 | Tech Stack and Tools
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?theme=dark&i=java%2cspring%2cmaven%2cmysql%2cnginx%2credis%2cdocker%2crabbitmq%2cnodejs%2cts%2cjs%2cvue%2cvite%2ctailwind%2cbootstrap%2ccss%2cfastapi%2cflask%2crollupjs%2cnpm%2cpinia%2cpnpm%2cregex%2cwindows%2clinux%2cvscode%2cidea%2cgit%2cgithub%2cmd&perline=12">
-  <img src="https://skillicons.dev/icons?theme=light&i=java,spring,maven,mysql,nginx,redis,docker,rabbitmq,nodejs,ts,js,vue,vite,tailwind,bootstrap,css,fastapi,flask,rollupjs,npm,pinia,pnpm,regex,windows,linux,vscode,idea,git,github,md&perline=12">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?theme=dark&i=java%2cspring%2cmaven%2cnginx%2cmysql%2credis%2crabbitmq%2cdocker%2cnodejs%2cexpress%2cts%2cjs%2chtml%2ccss%2cvue%2cvite%2cpinia%2ctailwind%2cbootstrap%2crollupjs%2cnpm%2cpnpm%2cpy%2cfastapi%2cflask%2cregex%2cwindows%2clinux%2cvscode%2cidea%2cpycharm%2cgit%2cgithub%2cgithubactions%2cmd%2cpostman%2cvim&perline=12">
+  <img src="https://skillicons.dev/icons?theme=light&i=java,spring,maven,nginx,mysql,redis,rabbitmq,docker,nodejs,express,ts,js,html,css,vue,vite,pinia,tailwind,bootstrap,rollupjs,npm,pnpm,py,fastapi,flask,regex,windows,linux,vscode,idea,pycharm,git,github,githubactions,md,postman,vim&perline=12">
 </picture>
 
 <p align="right">
@@ -171,12 +173,12 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=59244940&image_size=auto&color_scheme=dark" width="672">
   <img src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=59244940&image_size=auto&color_scheme=light" width="672"/>
 </picture>
-
+<br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=xiaohuohumax&theme=github&radius=16&hide_border=true&bg_color=242331" width="672">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xiaohuohumax&bg_color=fafafa&color=373737&line=2a9d8f&point=264653" width="672"/>
 </picture>
-
+<br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=xiaohuohumax&margin-w=10&theme=darkhub&no-frame=true">
   <img src="https://github-profile-trophy.vercel.app/?username=xiaohuohumax&margin-w=10&theme=light&no-frame=true" width="672"/>
@@ -193,7 +195,9 @@
 
 ## 🐰 赛博宠物 | Cyber Pets
 
-<img src="https://render.gitanimals.org/farms/xiaohuohumax" width="672"/>
+<picture>
+  <img src="https://render.gitanimals.org/farms/xiaohuohumax" width="672"/>
+</picture>
 
 <p align="right">
   <a href="#readme-top">
@@ -207,7 +211,7 @@
 ## 📫 如何联系我 | How to Contact Me
 
 + Email&nbsp;&nbsp;&nbsp;: xiaohuohumax@gmail.com
-+ Github&nbsp;: https://github.com/xiaohuohumax
++ Github&nbsp;: [xiaohuohumax/issues](https://github.com/xiaohuohumax/xiaohuohumax/issues)
 
 <p align="right">
   <a href="#readme-top">
@@ -224,7 +228,9 @@
 > 如果你喜欢我的个人资料，你可以 ⭐ 这个项目。如果你想找寻更多徽章和状态卡片，欢迎访问我的 [Readme Widget Hub](https://xiaohuohumax.github.io/readme-widget-hub/) 文档。<br/>
 > If you liked my profile, you can ⭐ this repository. If you want to find more badges and status cards, welcome to visit my [Readme Widget Hub](https://xiaohuohumax.github.io/readme-widget-hub/en-US/) documentation.
 
-<img src="https://count.getloli.com/@xiaohuohumax?theme=green" height="128"/>
+<picture>
+  <img src="https://count.getloli.com/@xiaohuohumax?theme=green" height="128"/>
+</picture>
 
 <p align="right">
   <a href="#readme-top">
@@ -236,5 +242,7 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=86&section=footer&color=0:2a9d8f,100:264653"/>
+  <picture>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=86&section=footer&color=0:2a9d8f,100:264653"/>
+  </picture>
 </div>
